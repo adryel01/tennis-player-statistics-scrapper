@@ -1,0 +1,1001 @@
+id;name;opponent_name;date;bestOf;surface;indoor;speed;winner
+1;Marc Andrea Huesler;Jaume Munar;09/04/2023;3;C;false;33;false
+2;Francisco Cerundolo;Matteo Berrettini;09/04/2023;3;C;false;33;false
+3;Matteo Berrettini;Francisco Cerundolo;09/04/2023;3;C;false;33;true
+4;Filip Krajinovic;Roberto Bautista Agut;09/04/2023;3;C;false;33;false
+5;Alexei Popyrin;Dusan Lajovic;09/04/2023;3;C;false;33;true
+6;Holger Vitus Nodskov Rune;Dominic Thiem;09/04/2023;3;C;false;33;true
+7;Grigor Dimitrov;Ben Shelton;09/04/2023;3;C;false;33;true
+8;Alexander Bublik;Alexander Zverev;09/04/2023;3;C;false;33;false
+9;Jan Lennard Struff;Casper Ruud;09/04/2023;3;C;false;33;true
+10;Stan Wawrinka;Tallon Griekspoor;09/04/2023;3;C;false;33;true
+11;Tallon Griekspoor;Stan Wawrinka;09/04/2023;3;C;false;33;false
+12;Hubert Hurkacz;Laslo Djere;09/04/2023;3;C;false;33;true
+13;Hubert Hurkacz;Jack Draper;09/04/2023;3;C;false;33;true
+14;Andrey Rublev;Holger Vitus Nodskov Rune;09/04/2023;3;C;false;33;true
+15;Nicolas Jarry;Alexei Popyrin;09/04/2023;3;C;false;33;true
+16;Roberto Bautista Agut;Filip Krajinovic;09/04/2023;3;C;false;33;true
+17;Alexander Zverev;Daniil Medvedev;09/04/2023;3;C;false;33;false
+18;Laslo Djere;Hubert Hurkacz;09/04/2023;3;C;false;33;false
+19;Daniil Medvedev;Alexander Zverev;09/04/2023;3;C;false;33;true
+20;Hubert Hurkacz;Jannik Sinner;09/04/2023;3;C;false;33;false
+21;Holger Vitus Nodskov Rune;Andrey Rublev;09/04/2023;3;C;false;33;false
+22;Jan Lennard Struff;Albert Ramos;09/04/2023;3;C;false;33;true
+23;Jaume Munar;Marc Andrea Huesler;09/04/2023;3;C;false;33;true
+24;Alexander Zverev;Roberto Bautista Agut;09/04/2023;3;C;false;33;true
+25;Quentin Halys;Alex De Minaur;22/03/2023;3;H;false;75;true
+26;Ugo Humbert;Miomir Kecmanovic;22/03/2023;3;H;false;75;false
+27;Yosuke Watanuki;Frances Tiafoe;22/03/2023;3;H;false;75;false
+28;Karen Khachanov;Daniil Medvedev;22/03/2023;3;H;false;75;false
+29;Thanasi Kokkinakis;Hubert Hurkacz;22/03/2023;3;H;false;75;false
+30;Grigor Dimitrov;Jan Lennard Struff;22/03/2023;3;H;false;75;true
+31;Denis Shapovalov;Guido Pella;22/03/2023;3;H;false;75;true
+32;Hubert Hurkacz;Thanasi Kokkinakis;22/03/2023;3;H;false;75;true
+33;Christian Garin;Stefanos Tsitsipas;22/03/2023;3;H;false;75;false
+34;Marc Andrea Huesler;Albert Ramos;22/03/2023;3;H;false;75;true
+35;Quentin Halys;Mackenzie Mcdonald;22/03/2023;3;H;false;75;true
+36;Christopher Eubanks;Adrian Mannarino;22/03/2023;3;H;false;75;true
+37;Aleksandar Kovacevic;Jaume Munar;22/03/2023;3;H;false;75;true
+38;Christopher Eubanks;Daniil Medvedev;22/03/2023;3;H;false;75;false
+39;Daniil Medvedev;Karen Khachanov;22/03/2023;3;H;false;75;true
+40;Matteo Berrettini;Mackenzie Mcdonald;22/03/2023;3;H;false;75;false
+41;Andrey Rublev;Jeffrey John Wolf;22/03/2023;3;H;false;75;true
+42;Botic Van De Zandschulp;Casper Ruud;22/03/2023;3;H;false;75;true
+43;Hubert Hurkacz;Adrian Mannarino;22/03/2023;3;H;false;75;false
+44;Quentin Halys;Pedro Martinez Portero;22/03/2023;3;H;false;75;true
+45;Botic Van De Zandschulp;Alexei Popyrin;22/03/2023;3;H;false;75;true
+46;Christopher Eubanks;Gregoire Barrere;22/03/2023;3;H;false;75;true
+47;Frances Tiafoe;Yosuke Watanuki;22/03/2023;3;H;false;75;true
+48;Andrey Rublev;Miomir Kecmanovic;22/03/2023;3;H;false;75;true
+49;Casper Ruud;Botic Van De Zandschulp;22/03/2023;3;H;false;75;false
+50;Yosuke Watanuki;Benoit Paire;22/03/2023;3;H;false;75;true
+51;Alex De Minaur;Quentin Halys;22/03/2023;3;H;false;75;false
+52;Christopher Oconnell;Richard Gasquet;22/03/2023;3;H;false;75;false
+53;Fabio Fognini;Jan Lennard Struff;22/03/2023;3;H;false;75;false
+54;Jan Lennard Struff;Grigor Dimitrov;22/03/2023;3;H;false;75;false
+55;Miomir Kecmanovic;Ugo Humbert;22/03/2023;3;H;false;75;true
+56;Alexei Popyrin;Mikael Ymer;22/03/2023;3;H;false;75;true
+57;Christopher Eubanks;Borna Coric;22/03/2023;3;H;false;75;true
+58;Emilio Nava;John Isner;22/03/2023;3;H;false;75;true
+59;Felix Auger Aliassime;Thiago Monteiro;22/03/2023;3;H;false;75;true
+60;Jan Lennard Struff;Fabio Fognini;22/03/2023;3;H;false;75;true
+61;Thanasi Kokkinakis;Zizou Bergs;22/03/2023;3;H;false;75;true
+62;Laslo Djere;Aleksandar Vukic;22/03/2023;3;H;false;75;true
+63;Stefanos Tsitsipas;Christian Garin;22/03/2023;3;H;false;75;true
+64;Alex Molcan;Yoshihito Nishioka;22/03/2023;3;H;false;75;true
+65;Daniil Medvedev;Quentin Halys;22/03/2023;3;H;false;75;true
+66;Emil Ruusuvuori;Botic Van De Zandschulp;22/03/2023;3;H;false;75;true
+67;Jannik Sinner;Andrey Rublev;22/03/2023;3;H;false;75;true
+68;John Isner;Emilio Nava;22/03/2023;3;H;false;75;false
+69;Lorenzo Sonego;Daniel Evans;22/03/2023;3;H;false;75;true
+70;Stefanos Tsitsipas;Karen Khachanov;22/03/2023;3;H;false;75;false
+71;Tommy Paul;Marc Andrea Huesler;22/03/2023;3;H;false;75;true
+72;Adrian Mannarino;Juncheng Shang;22/03/2023;3;H;false;75;true
+73;Albert Ramos;Marc Andrea Huesler;22/03/2023;3;H;false;75;false
+74;Alexei Popyrin;Botic Van De Zandschulp;22/03/2023;3;H;false;75;false
+75;Brandon Nakashima;Oscar Otte;22/03/2023;3;H;false;75;true
+76;Christopher Eubanks;Denis Kudla;22/03/2023;3;H;false;75;true
+77;Alexander Zverev;Daniil Medvedev;08/03/2023;3;H;false;56;false
+78;Daniil Medvedev;Alexander Zverev;08/03/2023;3;H;false;56;true
+79;Cameron Norrie;Taro Daniel;08/03/2023;3;H;false;56;true
+80;Maxime Cressy;Alejandro Tabilo;08/03/2023;3;H;false;56;false
+81;Jordan Thompson;Stefanos Tsitsipas;08/03/2023;3;H;false;56;true
+82;Stan Wawrinka;Holger Vitus Nodskov Rune;08/03/2023;3;H;false;56;true
+83;Marc Andrea Huesler;Pedro Martinez Portero;08/03/2023;3;H;false;56;false
+84;Thiago Monteiro;Guido Pella;08/03/2023;3;H;false;56;false
+85;Yibing Wu;Jaume Munar;08/03/2023;3;H;false;56;true
+86;Christian Garin;Casper Ruud;08/03/2023;3;H;false;56;true
+87;Stefanos Tsitsipas;Jordan Thompson;08/03/2023;3;H;false;56;false
+88;Tomas Martin Etcheverry;Andy Murray;08/03/2023;3;H;false;56;false
+89;Alejandro Davidovich Fokina;Karen Khachanov;08/03/2023;3;H;false;56;true
+90;Frances Tiafoe;Daniil Medvedev;08/03/2023;3;H;false;56;false
+91;Guido Pella;Thiago Monteiro;08/03/2023;3;H;false;56;true
+92;Quentin Halys;Jan Lennard Struff;08/03/2023;3;H;false;56;false
+93;Holger Vitus Nodskov Rune;Stan Wawrinka;08/03/2023;3;H;false;56;false
+94;Jannik Sinner;Taylor Harry Fritz;08/03/2023;3;H;false;56;true
+95;Jack Draper;Andy Murray;08/03/2023;3;H;false;56;true
+96;Jiri Lehecka;Arthur Rinderknech;08/03/2023;3;H;false;56;true
+97;Rinky Hijikata;Mikael Ymer;08/03/2023;3;H;false;56;true
+98;Alexei Popyrin;Zhizhen Zhang;08/03/2023;3;H;false;56;true
+99;Daniil Medvedev;Frances Tiafoe;08/03/2023;3;H;false;56;true
+100;Dominic Thiem;Adrian Mannarino;08/03/2023;3;H;false;56;false
+101;John Isner;Brandon Nakashima;08/03/2023;3;H;false;56;false
+102;Felix Auger Aliassime;Pedro Martinez Portero;08/03/2023;3;H;false;56;true
+103;Taro Daniel;Cameron Norrie;08/03/2023;3;H;false;56;false
+104;Alejandro Tabilo;Maxime Cressy;08/03/2023;3;H;false;56;true
+105;Andy Murray;Tomas Martin Etcheverry;08/03/2023;3;H;false;56;true
+106;Maxime Cressy;Felix Auger Aliassime;27/02/2023;3;H;false;77;false
+107;Denis Shapovalov;Miomir Kecmanovic;27/02/2023;3;H;false;48;true
+108;Novak Djokovic;Tomas Machac;27/02/2023;3;H;false;77;true
+109;Tallon Griekspoor;Constant Lestienne;27/02/2023;3;H;false;77;true
+110;Alexei Popyrin;Pavel Kotov;27/02/2023;3;H;false;77;false
+111;Hubert Hurkacz;Alexander Shevchenko;27/02/2023;3;H;false;77;true
+112;Tommy Paul;Taylor Harry Fritz;27/02/2023;3;H;false;48;true
+113;Alejandro Davidovich Fokina;Andrey Rublev;27/02/2023;3;H;false;77;false
+114;Casper Ruud;Taro Daniel;27/02/2023;3;H;false;48;false
+115;Holger Vitus Nodskov Rune;Alex De Minaur;27/02/2023;3;H;false;48;false
+116;John Isner;Taylor Harry Fritz;27/02/2023;3;H;false;48;false
+117;Felix Auger Aliassime;Maxime Cressy;27/02/2023;3;H;false;77;true
+118;Pavel Kotov;Alexei Popyrin;27/02/2023;3;H;false;77;true
+119;Thanasi Kokkinakis;Borna Coric;27/02/2023;3;H;false;77;false
+120;Brandon Nakashima;Daniel Altmaier;27/02/2023;3;H;false;48;true
+121;Thanasi Kokkinakis;Quentin Halys;27/02/2023;3;H;false;77;true
+122;Tomas Machac;Novak Djokovic;27/02/2023;3;H;false;77;false
+123;Casper Ruud;Guido Andreozzi;27/02/2023;3;H;false;48;true
+124;Holger Vitus Nodskov Rune;Ben Shelton;27/02/2023;3;H;false;48;true
+125;Quentin Halys;Thanasi Kokkinakis;27/02/2023;3;H;false;77;false
+126;Andrey Rublev;Alejandro Davidovich Fokina;27/02/2023;3;H;false;77;true
+127;Botic Van De Zandschulp;Mikael Ymer;27/02/2023;3;H;false;77;true
+128;Frances Tiafoe;Yoshihito Nishioka;27/02/2023;3;H;false;48;true
+129;Taro Daniel;Casper Ruud;27/02/2023;3;H;false;48;true
+130;Alexander Zverev;Christopher Oconnell;27/02/2023;3;H;false;77;true
+131;Novak Djokovic;Daniil Medvedev;27/02/2023;3;H;false;77;false
+132;Taylor Harry Fritz;Tommy Paul;27/02/2023;3;H;false;48;false
+133;Alexander Shevchenko;Hubert Hurkacz;27/02/2023;3;H;false;77;false
+134;Borna Coric;Thanasi Kokkinakis;27/02/2023;3;H;false;77;true
+135;Novak Djokovic;Tallon Griekspoor;27/02/2023;3;H;false;77;true
+136;Andrey Rublev;Filip Krajinovic;27/02/2023;3;H;false;77;true
+137;Andrey Rublev;Botic Van De Zandschulp;27/02/2023;3;H;false;77;true
+138;Tallon Griekspoor;Quentin Halys;20/02/2023;3;H;false;67;true
+139;Marton Fucsovics;Roberto Bautista Agut;20/02/2023;3;H;false;67;false
+140;Nikoloz Basilashvili;Alexandre Muller;20/02/2023;3;H;false;67;false
+141;Jiri Lehecka;Andy Murray;20/02/2023;3;H;false;67;false
+142;Christopher Oconnell;Roberto Bautista Agut;20/02/2023;3;H;false;67;true
+143;Quentin Halys;Tallon Griekspoor;20/02/2023;3;H;false;67;false
+144;Roberto Bautista Agut;Christopher Oconnell;20/02/2023;3;H;false;67;false
+145;Felix Auger Aliassime;Jason Kubler;20/02/2023;3;H;false;67;true
+146;Oleksii Krutykh;Liam Broady;20/02/2023;3;H;false;67;false
+147;Jiri Lehecka;Damir Dzumhur;20/02/2023;3;H;false;67;true
+148;Andrey Rublev;Jiri Lehecka;20/02/2023;3;H;false;67;false
+149;Andrey Rublev;Tallon Griekspoor;20/02/2023;3;H;false;67;true
+150;Lorenzo Sonego;Andy Murray;20/02/2023;3;H;false;67;false
+151;Soon Woo Kwon;Abedallah Shelbayh;20/02/2023;3;H;false;67;true
+152;Felix Auger Aliassime;Daniil Medvedev;20/02/2023;3;H;false;67;false
+153;Tallon Griekspoor;Andrey Rublev;20/02/2023;3;H;false;67;false
+154;Hubert Hurkacz;Roberto Bautista Agut;13/02/2023;3;H;true;64;true
+155;Pablo Carreno Busta;Richard Gasquet;13/02/2023;3;H;true;64;false
+156;Taylor Harry Fritz;Miomir Kecmanovic;13/02/2023;3;H;false;54;true
+157;Aleksandar Kovacevic;Michael Mmoh;13/02/2023;3;H;false;54;false
+158;Radu Albot;Miomir Kecmanovic;13/02/2023;3;H;false;54;false
+159;Maxime Cressy;Tim Van Rijthoven;13/02/2023;3;H;true;64;true
+160;Jordan Thompson;Denis Kudla;13/02/2023;3;H;false;54;false
+161;Mackenzie Mcdonald;Michael Mmoh;13/02/2023;3;H;false;54;true
+162;Steve Johnson;Nuno Borges;13/02/2023;3;H;false;54;false
+163;Hubert Hurkacz;Grigor Dimitrov;13/02/2023;3;H;true;64;false
+164;Tallon Griekspoor;Alexander Zverev;13/02/2023;3;H;true;64;true
+165;Mackenzie Mcdonald;Yoshihito Nishioka;13/02/2023;3;H;false;54;true
+166;Richard Gasquet;Pablo Carreno Busta;13/02/2023;3;H;true;64;true
+167;Jannik Sinner;Benjamin Bonzi;13/02/2023;3;H;true;64;true
+168;Stan Wawrinka;Richard Gasquet;13/02/2023;3;H;true;64;true
+169;Tallon Griekspoor;Mikael Ymer;13/02/2023;3;H;true;64;true
+170;Quentin Halys;Botic Van De Zandschulp;13/02/2023;3;H;true;64;false
+171;Botic Van De Zandschulp;Quentin Halys;13/02/2023;3;H;true;64;true
+172;Daniel Altmaier;Adrian Mannarino;13/02/2023;3;H;false;54;false
+173;Nuno Borges;Steve Johnson;13/02/2023;3;H;false;54;true
+174;Jannik Sinner;Daniil Medvedev;13/02/2023;3;H;true;64;false
+175;Christopher Eubanks;Aleksandar Vukic;13/02/2023;3;H;false;54;false
+176;Denis Shapovalov;Michael Mmoh;13/02/2023;3;H;false;54;false
+177;Matija Pecotic;Jack Sock;13/02/2023;3;H;false;54;true
+178;Stan Wawrinka;Alexander Bublik;13/02/2023;3;H;true;64;true
+179;Taylor Harry Fritz;Mackenzie Mcdonald;13/02/2023;3;H;false;54;true
+180;Adrian Mannarino;Daniel Altmaier;13/02/2023;3;H;false;54;true
+181;Maxime Cressy;Alex De Minaur;13/02/2023;3;H;true;64;false
+182;Michael Mmoh;Aleksandar Kovacevic;13/02/2023;3;H;false;54;true
+183;Taylor Harry Fritz;Adrian Mannarino;13/02/2023;3;H;false;54;true
+184;John Isner;Yibing Wu;06/02/2023;3;H;false;78;false
+185;Gabriel Diallo;Emilio Gomez;06/02/2023;3;H;false;78;false
+186;John Isner;Jeffrey John Wolf;06/02/2023;3;H;false;78;true
+187;John Isner;Chun Hsin Tseng;06/02/2023;3;H;false;78;true
+188;Yibing Wu;John Isner;06/02/2023;3;H;false;78;true
+189;John Isner;Emilio Gomez;06/02/2023;3;H;false;78;true
+190;Taylor Harry Fritz;Yibing Wu;06/02/2023;3;H;false;78;false
+191;Yibing Wu;Michael Mmoh;06/02/2023;3;H;false;78;true
+192;Adrian Mannarino;Steve Johnson;06/02/2023;3;H;false;78;true
+193;Marcos Giron;Alex Rybakov;06/02/2023;3;H;false;78;true
+194;Miomir Kecmanovic;Emilio Gomez;06/02/2023;3;H;false;78;false
+195;Yibing Wu;Taylor Harry Fritz;06/02/2023;3;H;false;78;true
+196;Emilio Gomez;Miomir Kecmanovic;06/02/2023;3;H;false;78;true
+197;Frances Tiafoe;Jeffrey John Wolf;06/02/2023;3;H;false;78;false
+198;Jack Sock;Ilya Ivashka;06/02/2023;3;H;false;78;true
+199;Taylor Harry Fritz;Jack Sock;06/02/2023;3;H;false;78;true
+200;Emilio Gomez;John Isner;06/02/2023;3;H;false;78;false
+201;Alex Rybakov;Marcos Giron;06/02/2023;3;H;false;78;false
+202;Jeffrey John Wolf;Radu Albot;06/02/2023;3;H;false;78;true
+203;Thanasi Kokkinakis;Miomir Kecmanovic;09/01/2023;3;H;false;78;true
+204;Thanasi Kokkinakis;Roberto Bautista Agut;09/01/2023;3;H;false;78;false
+205;Soon Woo Kwon;Jack Draper;09/01/2023;3;H;false;78;true
+206;Laslo Djere;Constant Lestienne;09/01/2023;3;H;false;58;false
+207;Soon Woo Kwon;Roberto Bautista Agut;09/01/2023;3;H;false;78;true
+208;Thanasi Kokkinakis;Alexei Popyrin;09/01/2023;3;H;false;78;true
+209;Jiri Lehecka;Cameron Norrie;09/01/2023;3;H;false;58;false
+210;Marc Andrea Huesler;Arthur Rinderknech;09/01/2023;3;H;false;78;true
+211;Roberto Bautista Agut;Thanasi Kokkinakis;09/01/2023;3;H;false;78;true
+212;Arthur Rinderknech;Marc Andrea Huesler;09/01/2023;3;H;false;78;false
+213;Richard Gasquet;Cameron Norrie;09/01/2023;3;H;false;58;true
+214;Tomas Martin Etcheverry;Jason Kubler;09/01/2023;3;H;false;78;false
+215;Jack Draper;Soon Woo Kwon;09/01/2023;3;H;false;78;false
+216;Thanasi Kokkinakis;Andrey Rublev;09/01/2023;3;H;false;78;true
+217;Cameron Norrie;Richard Gasquet;09/01/2023;3;H;false;58;false
+218;Pablo Carreno Busta;Soon Woo Kwon;09/01/2023;3;H;false;78;false
+219;Soon Woo Kwon;Pablo Carreno Busta;09/01/2023;3;H;false;78;true
+220;John Millman;Albert Ramos;09/01/2023;3;H;false;78;true
+221;Mackenzie Mcdonald;Daniel Evans;09/01/2023;3;H;false;78;true
+222;Quentin Halys;Jenson Brooksby;09/01/2023;3;H;false;58;false
+223;Alexei Popyrin;Thanasi Kokkinakis;09/01/2023;3;H;false;78;false
+224;Jack Draper;Karen Khachanov;09/01/2023;3;H;false;78;true
+225;Cameron Norrie;Marcos Giron;09/01/2023;3;H;false;58;true
+226;Emil Ruusuvuori;Mikael Ymer;09/01/2023;3;H;false;78;false
+227;Karen Khachanov;Jack Draper;09/01/2023;3;H;false;78;false
+228;Andrey Rublev;Thanasi Kokkinakis;09/01/2023;3;H;false;78;false
+229;Sebastian Korda;Novak Djokovic;01/01/2023;3;H;false;86;false
+230;Novak Djokovic;Sebastian Korda;01/01/2023;3;H;false;86;true
+231;Novak Djokovic;Daniil Medvedev;13/11/2022;3;H;true;100;true
+232;Daniil Medvedev;Novak Djokovic;13/11/2022;3;H;true;100;false
+233;Stefanos Tsitsipas;Daniil Medvedev;13/11/2022;3;H;true;100;true
+234;Daniil Medvedev;Andrey Rublev;13/11/2022;3;H;true;100;false
+235;Rafael Nadal;Casper Ruud;13/11/2022;3;H;true;100;true
+236;Andrey Rublev;Stefanos Tsitsipas;13/11/2022;3;H;true;100;true
+237;Casper Ruud;Taylor Harry Fritz;13/11/2022;3;H;true;100;true
+238;Felix Auger Aliassime;Taylor Harry Fritz;13/11/2022;3;H;true;100;false
+239;Taylor Harry Fritz;Casper Ruud;13/11/2022;3;H;true;100;false
+240;Daniil Medvedev;Stefanos Tsitsipas;13/11/2022;3;H;true;100;false
+241;Novak Djokovic;Stefanos Tsitsipas;13/11/2022;3;H;true;100;true
+242;Felix Auger Aliassime;Rafael Nadal;13/11/2022;3;H;true;100;true
+243;Taylor Harry Fritz;Felix Auger Aliassime;13/11/2022;3;H;true;100;true
+244;Novak Djokovic;Casper Ruud;13/11/2022;3;H;true;100;true
+245;Taylor Harry Fritz;Novak Djokovic;13/11/2022;3;H;true;100;false
+246;Felix Auger Aliassime;Casper Ruud;13/11/2022;3;H;true;100;false
+247;Alexander Bublik;Mikael Ymer;31/10/2022;3;H;true;77;false
+248;Corentin Moutet;Cameron Norrie;31/10/2022;3;H;true;77;true
+249;Taylor Harry Fritz;Gilles Simon;31/10/2022;3;H;true;77;false
+250;Felix Auger Aliassime;Mikael Ymer;31/10/2022;3;H;true;77;true
+251;Holger Vitus Nodskov Rune;Stan Wawrinka;31/10/2022;3;H;true;77;true
+252;Holger Vitus Nodskov Rune;Novak Djokovic;31/10/2022;3;H;true;77;true
+253;Sebastian Korda;Alex De Minaur;31/10/2022;3;H;true;77;false
+254;Brandon Nakashima;Daniel Evans;31/10/2022;3;H;true;77;false
+255;Denis Shapovalov;Pablo Carreno Busta;31/10/2022;3;H;true;77;false
+256;John Isner;Oscar Otte;31/10/2022;3;H;true;77;true
+257;Maxime Cressy;Novak Djokovic;31/10/2022;3;H;true;77;false
+258;Aslan Karatsev;Yoshihito Nishioka;31/10/2022;3;H;true;77;false
+259;Borna Coric;Corentin Moutet;31/10/2022;3;H;true;77;false
+260;Lorenzo Musetti;Casper Ruud;31/10/2022;3;H;true;77;true
+261;Novak Djokovic;Stefanos Tsitsipas;31/10/2022;3;H;true;77;true
+262;Novak Djokovic;Holger Vitus Nodskov Rune;31/10/2022;3;H;true;77;false
+263;Andy Murray;Gilles Simon;31/10/2022;3;H;true;77;false
+264;Cameron Norrie;Corentin Moutet;31/10/2022;3;H;true;77;false
+265;Fabio Fognini;Arthur Fils;31/10/2022;3;H;true;77;true
+266;Mikael Ymer;Felix Auger Aliassime;31/10/2022;3;H;true;77;false
+267;Daniil Medvedev;Alex De Minaur;31/10/2022;3;H;true;77;false
+268;Corentin Moutet;Stefanos Tsitsipas;31/10/2022;3;H;true;77;false
+269;Carlos Alcaraz Garfia;Yoshihito Nishioka;31/10/2022;3;H;true;77;true
+270;Frances Tiafoe;Alex De Minaur;31/10/2022;3;H;true;77;true
+271;Grigor Dimitrov;Botic Van De Zandschulp;31/10/2022;3;H;true;77;true
+272;Holger Vitus Nodskov Rune;Andrey Rublev;31/10/2022;3;H;true;77;true
+273;Holger Vitus Nodskov Rune;Carlos Alcaraz Garfia;31/10/2022;3;H;true;77;true
+274;Jack Draper;Frances Tiafoe;31/10/2022;3;H;true;77;false
+275;Pablo Carreno Busta;Albert Ramos;31/10/2022;3;H;true;77;true
+276;Botic Van De Zandschulp;Grigor Dimitrov;31/10/2022;3;H;true;77;false
+277;Hubert Hurkacz;Adrian Mannarino;31/10/2022;3;H;true;77;true
+278;Karen Khachanov;Marc Andrea Huesler;31/10/2022;3;H;true;77;true
+279;Maxime Cressy;Diego Sebastian Schwartzman;31/10/2022;3;H;true;77;true
+280;Tommy Paul;Rafael Nadal;31/10/2022;3;H;true;77;true
+281;Alex De Minaur;Daniil Medvedev;31/10/2022;3;H;true;77;true
+282;Taylor Harry Fritz;Yoshihito Nishioka;24/10/2022;3;H;true;84;true
+283;Hubert Hurkacz;Borna Coric;24/10/2022;3;H;true;84;false
+284;Hubert Hurkacz;Frances Tiafoe;24/10/2022;3;H;true;84;true
+285;Dominic Stephan Stricker;Pablo Carreno Busta;24/10/2022;3;H;true;77;false
+286;Holger Vitus Nodskov Rune;Roberto Bautista Agut;24/10/2022;3;H;true;77;true
+287;Roman Safiullin;Andy Murray;24/10/2022;3;H;true;77;false
+288;Borna Coric;Stefanos Tsitsipas;24/10/2022;3;H;true;84;true
+289;Hubert Hurkacz;Emil Ruusuvuori;24/10/2022;3;H;true;84;true
+290;Dominic Thiem;Tommy Paul;24/10/2022;3;H;true;84;true
+291;Felix Auger Aliassime;Marc Andrea Huesler;24/10/2022;3;H;true;77;true
+292;Lorenzo Musetti;Albert Ramos;24/10/2022;3;H;true;77;false
+293;Mackenzie Mcdonald;Alex Molcan;24/10/2022;3;H;true;77;false
+294;Denis Shapovalov;Daniel Evans;24/10/2022;3;H;true;84;true
+295;Borna Coric;Quentin Halys;24/10/2022;3;H;true;84;true
+296;Carlos Alcaraz Garfia;Jack Draper;24/10/2022;3;H;true;77;true
+297;Denis Shapovalov;Daniil Medvedev;24/10/2022;3;H;true;84;false
+298;Grigor Dimitrov;Marcos Giron;24/10/2022;3;H;true;84;true
+299;Pedro Cachin;Cameron Norrie;24/10/2022;3;H;true;84;false
+300;Alexander Bublik;Albert Ramos;24/10/2022;3;H;true;77;true
+301;Borna Coric;Hubert Hurkacz;24/10/2022;3;H;true;84;true
+302;Cameron Norrie;Pedro Cachin;24/10/2022;3;H;true;84;true
+303;Frances Tiafoe;Hubert Hurkacz;24/10/2022;3;H;true;84;false
+304;Albert Ramos;Lorenzo Musetti;24/10/2022;3;H;true;77;true
+305;Alex Molcan;Mackenzie Mcdonald;24/10/2022;3;H;true;77;true
+306;Daniel Evans;Oscar Otte;24/10/2022;3;H;true;84;true
+307;Felix Auger Aliassime;Holger Vitus Nodskov Rune;24/10/2022;3;H;true;77;true
+308;Marc Andrea Huesler;Felix Auger Aliassime;24/10/2022;3;H;true;77;false
+309;Marin Cilic;Arthur Rinderknech;24/10/2022;3;H;true;77;false
+310;Brandon Nakashima;David Goffin;24/10/2022;3;H;true;77;true
+311;Miomir Kecmanovic;Alejandro Davidovich Fokina;24/10/2022;3;H;true;77;true
+312;Pablo Carreno Busta;Dominic Stephan Stricker;24/10/2022;3;H;true;77;true
+313;Quentin Halys;Borna Coric;24/10/2022;3;H;true;84;false
+314;Ugo Humbert;Jenson Brooksby;24/10/2022;3;H;true;77;true
+315;Oscar Otte;Daniel Evans;24/10/2022;3;H;true;84;false
+316;Stan Wawrinka;Brandon Nakashima;24/10/2022;3;H;true;77;true
+317;Felix Auger Aliassime;Alexander Bublik;24/10/2022;3;H;true;77;true
+318;Tommy Paul;Dominic Thiem;24/10/2022;3;H;true;84;false
+319;Adrian Mannarino;Botic Van De Zandschulp;24/10/2022;3;H;true;77;false
+320;Alejandro Davidovich Fokina;Miomir Kecmanovic;24/10/2022;3;H;true;77;false
+321;Andy Murray;Roman Safiullin;24/10/2022;3;H;true;77;true
+322;Arthur Rinderknech;Alex Molcan;24/10/2022;3;H;true;77;true
+323;Brandon Nakashima;Stan Wawrinka;24/10/2022;3;H;true;77;false
+324;David Goffin;Brandon Nakashima;24/10/2022;3;H;true;77;false
+325;Stan Wawrinka;Roberto Bautista Agut;24/10/2022;3;H;true;77;false
+326;Stefanos Tsitsipas;Borna Coric;24/10/2022;3;H;true;84;false
+327;Arthur Rinderknech;Marin Cilic;24/10/2022;3;H;true;77;true
+328;Denis Shapovalov;Taylor Harry Fritz;24/10/2022;3;H;true;84;true
+329;Roberto Bautista Agut;Stan Wawrinka;24/10/2022;3;H;true;77;true
+330;Botic Van De Zandschulp;Adrian Mannarino;24/10/2022;3;H;true;77;true
+331;David Goffin;Gilles Arnaud Bailly;17/10/2022;3;H;true;75;true
+332;Maxime Cressy;Ilya Ivashka;17/10/2022;3;H;true;58;true
+333;Hubert Hurkacz;Jack Draper;17/10/2022;3;H;true;75;true
+334;Corentin Moutet;Luca Nardi;17/10/2022;3;H;false;52;true
+335;Elias Ymer;Frances Tiafoe;17/10/2022;3;H;true;58;false
+336;Tim Van Rijthoven;Jaume Munar;17/10/2022;3;H;true;75;false
+337;Dominic Stephan Stricker;Richard Gasquet;17/10/2022;3;H;true;75;false
+338;Sebastian Korda;Dominic Thiem;17/10/2022;3;H;true;75;true
+339;Hubert Hurkacz;Dominic Thiem;17/10/2022;3;H;true;75;false
+340;Yoshihito Nishioka;Luca Van Assche;17/10/2022;3;H;true;75;true
+341;Felix Auger Aliassime;Richard Gasquet;17/10/2022;3;H;true;75;true
+342;Holger Vitus Nodskov Rune;Alex De Minaur;17/10/2022;3;H;true;58;true
+343;Frances Tiafoe;Elias Ymer;17/10/2022;3;H;true;58;true
+344;Stan Wawrinka;Richard Gasquet;17/10/2022;3;H;true;75;false
+345;Francisco Cerundolo;Marc Andrea Huesler;17/10/2022;3;H;true;75;true
+346;Felix Auger Aliassime;Daniel Evans;17/10/2022;3;H;true;75;true
+347;Aslan Karatsev;Cameron Norrie;17/10/2022;3;H;true;58;false
+348;Fabio Fognini;Hugo Grenier;17/10/2022;3;H;false;52;true
+349;Holger Vitus Nodskov Rune;Cameron Norrie;17/10/2022;3;H;true;58;true
+350;Matteo Berrettini;Mackenzie Mcdonald;17/10/2022;3;H;false;52;true
+351;Manuel Guinard;Geoffrey Blancaneaux;17/10/2022;3;H;true;75;true
+352;Sebastian Korda;Marcos Giron;17/10/2022;3;H;true;75;true
+353;Dominic Thiem;Hubert Hurkacz;17/10/2022;3;H;true;75;true
+354;Matteo Berrettini;Roberto Carballes Baena;17/10/2022;3;H;false;52;true
+355;Matteo Berrettini;Taro Daniel;17/10/2022;3;H;false;52;true
+356;Nuno Borges;Albert Ramos;17/10/2022;3;H;false;52;true
+357;David Goffin;Diego Sebastian Schwartzman;17/10/2022;3;H;true;75;true
+358;Luca Nardi;Corentin Moutet;17/10/2022;3;H;false;52;false
+359;Marc Andrea Huesler;Francisco Cerundolo;17/10/2022;3;H;true;75;false
+360;Stefanos Tsitsipas;Maxime Cressy;17/10/2022;3;H;true;58;true
+361;Miomir Kecmanovic;Pablo Carreno Busta;17/10/2022;3;H;false;52;true
+362;Quentin Halys;Mikael Ymer;17/10/2022;3;H;true;58;false
+363;Sebastian Korda;Karen Khachanov;17/10/2022;3;H;true;75;true
+364;Jiri Lehecka;Grigor Dimitrov;17/10/2022;3;H;true;58;true
+365;Marcos Giron;Sebastian Korda;17/10/2022;3;H;true;75;false
+366;Grigor Dimitrov;Jiri Lehecka;17/10/2022;3;H;true;58;false
+367;Jack Draper;Hubert Hurkacz;17/10/2022;3;H;true;75;false
+368;Luca Van Assche;Yoshihito Nishioka;17/10/2022;3;H;true;75;false
+369;Mackenzie Mcdonald;Roberto Bautista Agut;17/10/2022;3;H;false;52;true
+370;Maxime Cressy;Stefanos Tsitsipas;17/10/2022;3;H;true;58;false
+371;Mikael Ymer;Quentin Halys;17/10/2022;3;H;true;58;true
+372;Richard Gasquet;Stan Wawrinka;17/10/2022;3;H;true;75;true
+373;Yoshihito Nishioka;Jaume Munar;17/10/2022;3;H;true;75;true
+374;Sebastian Korda;Yoshihito Nishioka;17/10/2022;3;H;true;75;true
+375;David Goffin;Richard Gasquet;17/10/2022;3;H;true;75;false
+376;Dominic Thiem;Sebastian Korda;17/10/2022;3;H;true;75;false
+377;Lorenzo Musetti;Miomir Kecmanovic;17/10/2022;3;H;false;52;true
+378;Mackenzie Mcdonald;Matteo Berrettini;17/10/2022;3;H;false;52;false
+379;Mikael Ymer;Stefanos Tsitsipas;17/10/2022;3;H;true;58;false
+380;Pablo Carreno Busta;Miomir Kecmanovic;17/10/2022;3;H;false;52;false
+381;Tallon Griekspoor;Daniel Evans;17/10/2022;3;H;true;75;false
+382;Arthur Rinderknech;Pablo Carreno Busta;10/10/2022;3;H;false;52;true
+383;Matteo Berrettini;Roberto Carballes Baena;10/10/2022;3;H;false;60;false
+384;Sebastian Korda;Roberto Bautista Agut;10/10/2022;3;H;false;52;true
+385;Andrey Rublev;Ilya Ivashka;10/10/2022;3;H;false;52;true
+386;Pedro Cachin;Andy Murray;10/10/2022;3;H;false;52;false
+387;Felix Auger Aliassime;Oscar Otte;10/10/2022;3;H;false;60;true
+388;Sebastian Korda;Andy Murray;10/10/2022;3;H;false;52;true
+389;Alexander Bublik;Jeffrey John Wolf;10/10/2022;3;H;false;60;false
+390;Alexander Bublik;Corentin Moutet;10/10/2022;3;H;false;60;true
+391;Feliciano Lopez;Ilya Ivashka;10/10/2022;3;H;false;52;false
+392;Alexander Bublik;Christian Garin;10/10/2022;3;H;false;60;true
+393;Pablo Carreno Busta;Thiago Monteiro;10/10/2022;3;H;false;52;true
+394;Andy Murray;Pedro Cachin;10/10/2022;3;H;false;52;true
+395;Tommy Paul;Nicolas Alvarez Varona;10/10/2022;3;H;false;52;true
+396;Andrey Rublev;Sebastian Korda;10/10/2022;3;H;false;52;true
+397;Ilya Ivashka;Feliciano Lopez;10/10/2022;3;H;false;52;true
+398;Jeffrey John Wolf;Alexander Bublik;10/10/2022;3;H;false;60;true
+399;Sebastian Korda;Arthur Rinderknech;10/10/2022;3;H;false;52;true
+400;Zhizhen Zhang;Francesco Passaro;10/10/2022;3;H;false;60;false
+401;Aslan Karatsev;Mikael Ymer;10/10/2022;3;H;false;60;false
+402;Maxime Cressy;Constant Lestienne;26/09/2022;3;H;true;72;false
+403;Marc Andrea Huesler;Kamil Majchrzak;26/09/2022;3;H;true;69;true
+404;Botic Van De Zandschulp;Liam Broady;26/09/2022;3;H;true;72;false
+405;Marc Andrea Huesler;Pablo Carreno Busta;26/09/2022;3;H;true;69;true
+406;Alexandar Lazarov;Lorenzo Musetti;26/09/2022;3;H;true;69;false
+407;Kamil Majchrzak;Marc Andrea Huesler;26/09/2022;3;H;true;69;false
+408;Vasek Pospisil;Tallon Griekspoor;26/09/2022;3;H;true;72;true
+409;Aleksandar Kovacevic;Yoshihito Nishioka;26/09/2022;3;H;false;62;false
+410;Laslo Djere;Dominic Thiem;26/09/2022;3;H;true;72;false
+411;Lorenzo Musetti;Alexandar Lazarov;26/09/2022;3;H;true;69;true
+412;Marin Cilic;Dominic Thiem;26/09/2022;3;H;true;72;true
+413;Aleksandar Kovacevic;Mackenzie Mcdonald;26/09/2022;3;H;false;62;true
+414;Arthur Rinderknech;Marius Copil;26/09/2022;3;H;true;72;true
+415;Aslan Karatsev;Tomas Martin Etcheverry;26/09/2022;3;H;true;72;false
+416;Aleksandar Kovacevic;Miomir Kecmanovic;26/09/2022;3;H;false;62;true
+417;Denis Shapovalov;Yoshihito Nishioka;26/09/2022;3;H;false;62;false
+418;Holger Vitus Nodskov Rune;Lorenzo Sonego;26/09/2022;3;H;true;69;true
+419;Roman Safiullin;Hugo Grenier;26/09/2022;3;H;true;72;true
+420;Steve Johnson;Radu Albot;26/09/2022;3;H;false;62;false
+421;Tallon Griekspoor;Vasek Pospisil;26/09/2022;3;H;true;72;false
+422;Arthur Rinderknech;Diego Sebastian Schwartzman;26/09/2022;3;H;true;72;true
+423;Holger Vitus Nodskov Rune;Ilya Ivashka;26/09/2022;3;H;true;69;true
+424;Holger Vitus Nodskov Rune;Marc Andrea Huesler;26/09/2022;3;H;true;69;false
+425;Nicolas Jarry;Casper Ruud;26/09/2022;3;H;false;62;false
+426;Casper Ruud;Yoshihito Nishioka;26/09/2022;3;H;false;62;false
+427;Jenson Brooksby;Tung Lin Wu;26/09/2022;3;H;false;62;true
+428;Marius Copil;Arthur Rinderknech;26/09/2022;3;H;true;72;false
+429;Soon Woo Kwon;Yunseong Chung;26/09/2022;3;H;false;62;true
+430;Tung Lin Wu;Jenson Brooksby;26/09/2022;3;H;false;62;false
+431;Yoshihito Nishioka;Casper Ruud;26/09/2022;3;H;false;62;true
+432;Constant Lestienne;Maxime Cressy;26/09/2022;3;H;true;72;true
+433;Denis Shapovalov;Jaume Munar;26/09/2022;3;H;false;62;true
+434;Ugo Humbert;Dimitar Kuzmanov;26/09/2022;3;H;true;69;true
+435;Ilya Ivashka;Mikael Ymer;26/09/2022;3;H;true;69;true
+436;Novak Djokovic;Pablo Andujar;26/09/2022;3;H;true;72;true
+437;Lorenzo Musetti;Marc Andrea Huesler;26/09/2022;3;H;true;69;false
+438;Marin Cilic;Constant Lestienne;26/09/2022;3;H;true;72;true
+439;Ricardas Berankis;Kamil Majchrzak;26/09/2022;3;H;true;69;false
+440;Botic Van De Zandschulp;Joao Sousa;26/09/2022;3;H;true;72;true
+441;James Duckworth;Alexei Popyrin;19/09/2022;3;H;false;51;true
+442;Christopher Oconnell;Jenson Brooksby;19/09/2022;3;H;false;51;true
+443;Constant Lestienne;Brandon Holt;19/09/2022;3;H;false;51;true
+444;Daniel Elahi Galan Riveros;Pedro Martinez Portero;19/09/2022;3;H;false;51;true
+445;Marcos Giron;Daniel Evans;19/09/2022;3;H;false;51;true
+446;Brandon Holt;Constant Lestienne;19/09/2022;3;H;false;51;false
+447;Brandon Nakashima;Daniel Elahi Galan Riveros;19/09/2022;3;H;false;51;true
+448;Brandon Nakashima;Zachary Svajda;19/09/2022;3;H;false;51;true
+449;James Duckworth;Marcos Giron;19/09/2022;3;H;false;51;false
+450;Alexei Popyrin;James Duckworth;19/09/2022;3;H;false;51;false
+451;Christopher Oconnell;Brandon Nakashima;19/09/2022;3;H;false;51;false
+452;Marcos Giron;James Duckworth;19/09/2022;3;H;false;51;true
+453;Daniel Elahi Galan Riveros;Brandon Nakashima;19/09/2022;3;H;false;51;false
+454;Brandon Nakashima;Christopher Oconnell;19/09/2022;3;H;false;51;true
+455;Brandon Nakashima;Marcos Giron;19/09/2022;3;H;false;51;true
+456;Marcos Giron;Tomas Martin Etcheverry;19/09/2022;3;H;false;51;true
+457;Botic Van De Zandschulp;Benjamin Bonzi;21/08/2022;3;H;false;66;true
+458;Christopher Oconnell;Adrian Mannarino;21/08/2022;3;H;false;66;false
+459;Maxime Cressy;Lorenzo Sonego;21/08/2022;3;H;false;66;true
+460;Laslo Djere;Jason Kubler;21/08/2022;3;H;false;66;true
+461;Laslo Djere;Joao Sousa;21/08/2022;3;H;false;66;true
+462;Laslo Djere;Richard Gasquet;21/08/2022;3;H;false;66;true
+463;Steve Johnson;Richard Gasquet;21/08/2022;3;H;false;66;false
+464;Thanasi Kokkinakis;James Duckworth;21/08/2022;3;H;false;66;false
+465;Marc Andrea Huesler;Ilya Ivashka;21/08/2022;3;H;false;66;true
+466;Kamil Majchrzak;Richard Gasquet;21/08/2022;3;H;false;66;false
+467;Laslo Djere;Marc Andrea Huesler;21/08/2022;3;H;false;66;true
+468;Steve Johnson;Pedro Martinez Portero;21/08/2022;3;H;false;66;true
+469;Adrian Mannarino;Christopher Oconnell;21/08/2022;3;H;false;66;true
+470;Ilya Ivashka;Marc Andrea Huesler;21/08/2022;3;H;false;66;false
+471;James Duckworth;Thanasi Kokkinakis;21/08/2022;3;H;false;66;true
+472;Dominic Thiem;Jeffrey John Wolf;21/08/2022;3;H;false;66;true
+473;John Millman;Hugo Gaston;21/08/2022;3;H;false;66;true
+474;Lorenzo Musetti;Richard Gasquet;21/08/2022;3;H;false;66;false
+475;Jeffrey John Wolf;Dominic Thiem;21/08/2022;3;H;false;66;false
+476;Richard Gasquet;Kamil Majchrzak;21/08/2022;3;H;false;66;true
+477;Richard Gasquet;Lorenzo Musetti;21/08/2022;3;H;false;66;true
+478;Tallon Griekspoor;Taro Daniel;21/08/2022;3;H;false;66;true
+479;Joao Sousa;Laslo Djere;21/08/2022;3;H;false;66;false
+480;Botic Van De Zandschulp;Jaume Munar;21/08/2022;3;H;false;66;true
+481;Pablo Carreno Busta;Miomir Kecmanovic;14/08/2022;3;H;false;74;false
+482;John Isner;Benjamin Bonzi;14/08/2022;3;H;false;74;true
+483;John Isner;Stefanos Tsitsipas;14/08/2022;3;H;false;74;false
+484;John Isner;Sebastian Korda;14/08/2022;3;H;false;74;true
+485;Taylor Harry Fritz;Andrey Rublev;14/08/2022;3;H;false;74;true
+486;Carlos Alcaraz Garfia;Cameron Norrie;14/08/2022;3;H;false;74;false
+487;Jannik Sinner;Thanasi Kokkinakis;14/08/2022;3;H;false;74;true
+488;John Isner;Hubert Hurkacz;14/08/2022;3;H;false;74;true
+489;Stefanos Tsitsipas;John Isner;14/08/2022;3;H;false;74;true
+490;Francisco Cerundolo;Roberto Bautista Agut;14/08/2022;3;H;false;74;false
+491;Andy Murray;Stan Wawrinka;14/08/2022;3;H;false;74;true
+492;Borna Coric;Rafael Nadal;14/08/2022;3;H;false;74;true
+493;Holger Vitus Nodskov Rune;Cameron Norrie;14/08/2022;3;H;false;74;false
+494;Benjamin Bonzi;John Isner;14/08/2022;3;H;false;74;false
+495;Borna Coric;Stefanos Tsitsipas;14/08/2022;3;H;false;74;true
+496;Fabio Fognini;Andrey Rublev;14/08/2022;3;H;false;74;false
+497;Stan Wawrinka;Andy Murray;14/08/2022;3;H;false;74;false
+498;Thanasi Kokkinakis;Jannik Sinner;14/08/2022;3;H;false;74;false
+499;Andy Murray;Cameron Norrie;14/08/2022;3;H;false;74;false
+500;Felix Auger Aliassime;Jannik Sinner;14/08/2022;3;H;false;74;true
+501;Frances Tiafoe;Matteo Berrettini;14/08/2022;3;H;false;74;true
+502;Matteo Berrettini;Frances Tiafoe;14/08/2022;3;H;false;74;false
+503;Miomir Kecmanovic;Pablo Carreno Busta;14/08/2022;3;H;false;74;true
+504;Cameron Norrie;Andy Murray;14/08/2022;3;H;false;74;true
+505;Frances Tiafoe;Sebastian Korda;14/08/2022;3;H;false;74;false
+506;Andrey Rublev;Taylor Harry Fritz;14/08/2022;3;H;false;74;false
+507;Daniil Medvedev;Taylor Harry Fritz;14/08/2022;3;H;false;74;true
+508;Jannik Sinner;Miomir Kecmanovic;14/08/2022;3;H;false;74;true
+509;Maxime Cressy;Botic Van De Zandschulp;14/08/2022;3;H;false;74;false
+510;Nick Kyrgios;Alejandro Davidovich Fokina;14/08/2022;3;H;false;74;true
+511;Sebastian Korda;Frances Tiafoe;14/08/2022;3;H;false;74;true
+512;Sebastian Korda;John Isner;14/08/2022;3;H;false;74;false
+513;Stefanos Tsitsipas;Daniil Medvedev;14/08/2022;3;H;false;74;true
+514;Borna Coric;Lorenzo Musetti;14/08/2022;3;H;false;74;true
+515;Borna Coric;Roberto Bautista Agut;14/08/2022;3;H;false;74;true
+516;Marin Cilic;Emil Ruusuvuori;14/08/2022;3;H;false;74;true
+517;Ben Shelton;Casper Ruud;14/08/2022;3;H;false;74;true
+518;Ben Shelton;Lorenzo Sonego;14/08/2022;3;H;false;74;true
+519;Denis Shapovalov;Grigor Dimitrov;14/08/2022;3;H;false;74;true
+520;Alex Molcan;Diego Sebastian Schwartzman;14/08/2022;3;H;false;74;false
+521;Andrey Rublev;Fabio Fognini;14/08/2022;3;H;false;74;true
+522;Casper Ruud;Roberto Bautista Agut;08/08/2022;3;H;false;64;true
+523;Hubert Hurkacz;Albert Ramos;08/08/2022;3;H;false;64;true
+524;Nick Kyrgios;Hubert Hurkacz;08/08/2022;3;H;false;64;false
+525;Frances Tiafoe;Benjamin Bonzi;08/08/2022;3;H;false;64;true
+526;Hubert Hurkacz;Nick Kyrgios;08/08/2022;3;H;false;64;true
+527;Hubert Hurkacz;Casper Ruud;08/08/2022;3;H;false;64;true
+528;Roberto Bautista Agut;Casper Ruud;08/08/2022;3;H;false;64;false
+529;Pablo Carreno Busta;Daniel Evans;08/08/2022;3;H;false;64;true
+530;Taylor Harry Fritz;Frances Tiafoe;08/08/2022;3;H;false;64;true
+531;Benjamin Bonzi;Frances Tiafoe;08/08/2022;3;H;false;64;false
+532;Gael Monfils;Pedro Martinez Portero;08/08/2022;3;H;false;64;true
+533;Tommy Paul;Carlos Alcaraz Garfia;08/08/2022;3;H;false;64;true
+534;Tommy Paul;Daniel Evans;08/08/2022;3;H;false;64;false
+535;Casper Ruud;Alex Molcan;08/08/2022;3;H;false;64;true
+536;Daniel Evans;Pablo Carreno Busta;08/08/2022;3;H;false;64;false
+537;Felix Auger Aliassime;Yoshihito Nishioka;08/08/2022;3;H;false;64;true
+538;Taylor Harry Fritz;Daniel Evans;08/08/2022;3;H;false;64;false
+539;Nick Kyrgios;Daniil Medvedev;08/08/2022;3;H;false;64;true
+540;Carlos Alcaraz Garfia;Tommy Paul;08/08/2022;3;H;false;64;false
+541;Daniel Evans;Taylor Harry Fritz;08/08/2022;3;H;false;64;true
+542;Alex Molcan;Casper Ruud;08/08/2022;3;H;false;64;false
+543;Hubert Hurkacz;Emil Ruusuvuori;08/08/2022;3;H;false;64;true
+544;Stefanos Tsitsipas;Jack Draper;08/08/2022;3;H;false;64;false
+545;Casper Ruud;Hubert Hurkacz;08/08/2022;3;H;false;64;false
+546;Francisco Cerundolo;Karen Khachanov;08/08/2022;3;H;false;64;false
+547;Maxime Cressy;Gael Monfils;08/08/2022;3;H;false;64;false
+548;Pedro Martinez Portero;Gael Monfils;08/08/2022;3;H;false;64;false
+549;Daniil Medvedev;Nick Kyrgios;08/08/2022;3;H;false;64;false
+550;Hubert Hurkacz;Pablo Carreno Busta;08/08/2022;3;H;false;64;false
+551;Jannik Sinner;Adrian Mannarino;08/08/2022;3;H;false;64;true
+552;Pablo Carreno Busta;Jack Draper;08/08/2022;3;H;false;64;true
+553;Botic Van De Zandschulp;Miomir Kecmanovic;08/08/2022;3;H;false;64;true
+554;Albert Ramos;Diego Sebastian Schwartzman;08/08/2022;3;H;false;64;true
+555;Denis Shapovalov;Alex De Minaur;08/08/2022;3;H;false;64;false
+556;Felix Auger Aliassime;Cameron Norrie;08/08/2022;3;H;false;64;true
+557;Stan Wawrinka;Emil Ruusuvuori;08/08/2022;3;H;false;64;false
+558;Taylor Harry Fritz;Andy Murray;08/08/2022;3;H;false;64;true
+559;Nick Kyrgios;Frances Tiafoe;01/08/2022;3;H;false;57;true
+560;Botic Van De Zandschulp;Borna Gojo;01/08/2022;3;H;false;57;true
+561;Christopher Eubanks;Benjamin Bonzi;01/08/2022;3;H;false;57;true
+562;Reilly Opelka;Denis Kudla;01/08/2022;3;H;false;57;true
+563;Daniel Evans;Yoshihito Nishioka;01/08/2022;3;H;false;57;false
+564;Denis Shapovalov;Jeffrey John Wolf;01/08/2022;3;H;false;57;false
+565;Jack Sock;David Goffin;01/08/2022;3;H;false;57;true
+566;Karen Khachanov;Yoshihito Nishioka;01/08/2022;3;H;false;57;false
+567;Holger Vitus Nodskov Rune;Jeffrey John Wolf;01/08/2022;3;H;false;57;false
+568;Mikael Ymer;Andy Murray;01/08/2022;3;H;false;57;true
+569;Botic Van De Zandschulp;Frances Tiafoe;01/08/2022;3;H;false;57;false
+570;Dominik Koepfer;Karen Khachanov;01/08/2022;3;H;false;57;false
+571;Yoshihito Nishioka;Daniel Evans;01/08/2022;3;H;false;57;true
+572;Alex De Minaur;Yoshihito Nishioka;01/08/2022;3;H;false;57;false
+573;Borna Gojo;James Duckworth;01/08/2022;3;H;false;57;true
+574;Yoshihito Nishioka;Karen Khachanov;01/08/2022;3;H;false;57;true
+575;Borna Gojo;Botic Van De Zandschulp;01/08/2022;3;H;false;57;false
+576;Jeffrey John Wolf;Holger Vitus Nodskov Rune;01/08/2022;3;H;false;57;true
+577;Frances Tiafoe;Nick Kyrgios;01/08/2022;3;H;false;57;false
+578;Jeffrey John Wolf;Taro Daniel;01/08/2022;3;H;false;57;true
+579;Karen Khachanov;Dominik Koepfer;01/08/2022;3;H;false;57;true
+580;Michael Mmoh;Denis Kudla;01/08/2022;3;H;false;57;false
+581;Mikael Ymer;Sebastian Korda;01/08/2022;3;H;false;57;true
+582;Nick Kyrgios;Yoshihito Nishioka;01/08/2022;3;H;false;57;true
+583;Aslan Karatsev;Mikael Ymer;01/08/2022;3;H;false;57;false
+584;Sebastian Korda;Grigor Dimitrov;01/08/2022;3;H;false;57;true
+585;Maxime Cressy;Andrey Rublev;01/08/2022;3;H;false;57;false
+586;Dominik Koepfer;Soon Woo Kwon;01/08/2022;3;H;false;57;true
+587;Jack Draper;Stefan Kozlov;01/08/2022;3;H;false;57;true
+588;Taylor Harry Fritz;Daniel Evans;01/08/2022;3;H;false;57;false
+589;Yoshihito Nishioka;Alex De Minaur;01/08/2022;3;H;false;57;true
+590;John Isner;Jenson Brooksby;25/07/2022;3;H;false;68;false
+591;Soon Woo Kwon;Marcos Giron;25/07/2022;3;H;false;68;true
+592;Frances Tiafoe;Taro Daniel;25/07/2022;3;H;false;68;true
+593;John Isner;Ben Shelton;25/07/2022;3;H;false;68;true
+594;Ben Shelton;John Isner;25/07/2022;3;H;false;68;false
+595;Sebastian Korda;Taro Daniel;25/07/2022;3;H;false;68;false
+596;Ben Shelton;Ramkumar Ramanathan;25/07/2022;3;H;false;68;true
+597;Alex De Minaur;Adrian Mannarino;25/07/2022;3;H;false;68;true
+598;Marcos Giron;Soon Woo Kwon;25/07/2022;3;H;false;68;false
+599;Ilya Ivashka;Quentin Halys;25/07/2022;3;H;false;68;true
+600;Steve Johnson;Ilya Ivashka;25/07/2022;3;H;false;68;false
+601;Brandon Nakashima;John Millman;25/07/2022;3;H;false;68;true
+602;Jack Draper;Maxime Cressy;20/06/2022;3;G;false;72;false
+603;Maxime Cressy;Jack Draper;20/06/2022;3;G;false;72;true
+604;Taylor Harry Fritz;Maxime Cressy;20/06/2022;3;G;false;72;true
+605;Maxime Cressy;Taylor Harry Fritz;20/06/2022;3;G;false;72;false
+606;Taylor Harry Fritz;Alex De Minaur;20/06/2022;3;G;false;72;true
+607;Maxime Cressy;Cameron Norrie;20/06/2022;3;G;false;72;true
+608;Jack Draper;Diego Sebastian Schwartzman;20/06/2022;3;G;false;72;true
+609;Ryan Peniston;Holger Vitus Nodskov Rune;20/06/2022;3;G;false;72;true
+610;Nick Kyrgios;Laslo Djere;19/06/2022;3;G;false;82;true
+611;Stefanos Tsitsipas;Marcos Giron;19/06/2022;3;G;false;82;true
+612;Tallon Griekspoor;Antoine Bellier;19/06/2022;3;G;false;82;false
+613;Alex Molcan;Miomir Kecmanovic;19/06/2022;3;G;false;82;true
+614;Feliciano Lopez;Tallon Griekspoor;19/06/2022;3;G;false;82;false
+615;Daniel Altmaier;Dusan Lajovic;19/06/2022;3;G;false;82;true
+616;Laslo Djere;Nick Kyrgios;19/06/2022;3;G;false;82;false
+617;Antoine Bellier;Federico Delbonis;19/06/2022;3;G;false;82;true
+618;Antoine Bellier;Tallon Griekspoor;19/06/2022;3;G;false;82;true
+619;Botic Van De Zandschulp;Marcos Giron;19/06/2022;3;G;false;82;false
+620;Tallon Griekspoor;Alex Molcan;19/06/2022;3;G;false;82;true
+621;Antoine Bellier;Pablo Carreno Busta;19/06/2022;3;G;false;82;true
+622;Aslan Karatsev;Daniil Medvedev;19/06/2022;3;G;false;82;false
+623;Aslan Karatsev;Jaume Munar;19/06/2022;3;G;false;82;true
+624;Marcos Giron;Botic Van De Zandschulp;19/06/2022;3;G;false;82;true
+625;Roberto Bautista Agut;Taro Daniel;19/06/2022;3;G;false;82;true
+626;Taro Daniel;Roberto Bautista Agut;19/06/2022;3;G;false;82;false
+627;Marcos Giron;Mackenzie Mcdonald;19/06/2022;3;G;false;82;true
+628;Mackenzie Mcdonald;Joao Sousa;19/06/2022;3;G;false;82;true
+629;Tallon Griekspoor;Feliciano Lopez;19/06/2022;3;G;false;82;true
+630;Hubert Hurkacz;Nick Kyrgios;13/06/2022;3;G;false;86;true
+631;Nick Kyrgios;Hubert Hurkacz;13/06/2022;3;G;false;86;false
+632;Grigor Dimitrov;Cameron Norrie;13/06/2022;3;G;false;80;true
+633;Maxime Cressy;Hubert Hurkacz;13/06/2022;3;G;false;86;false
+634;Ryan Peniston;Filip Krajinovic;13/06/2022;3;G;false;80;false
+635;Oscar Otte;Karen Khachanov;13/06/2022;3;G;false;86;true
+636;Stan Wawrinka;Frances Tiafoe;13/06/2022;3;G;false;80;true
+637;Ugo Humbert;Radu Albot;13/06/2022;3;G;false;86;true
+638;Jan Lennard Struff;Ilya Ivashka;13/06/2022;3;G;false;86;false
+639;Marin Cilic;Liam Broady;13/06/2022;3;G;false;80;true
+640;Felix Auger Aliassime;Mackenzie Mcdonald;13/06/2022;3;G;false;86;true
+641;Oscar Otte;Miomir Kecmanovic;13/06/2022;3;G;false;86;true
+642;Hubert Hurkacz;Maxime Cressy;13/06/2022;3;G;false;86;true
+643;Stefanos Tsitsipas;Nick Kyrgios;13/06/2022;3;G;false;86;false
+644;Felix Auger Aliassime;Hubert Hurkacz;13/06/2022;3;G;false;86;false
+645;Frances Tiafoe;Stan Wawrinka;13/06/2022;3;G;false;80;false
+646;Matteo Berrettini;Filip Krajinovic;13/06/2022;3;G;false;80;true
+647;Matteo Berrettini;Denis Kudla;13/06/2022;3;G;false;80;true
+648;Sam Querrey;Filip Krajinovic;13/06/2022;3;G;false;80;false
+649;Nick Kyrgios;Pablo Carreno Busta;13/06/2022;3;G;false;86;true
+650;Ryan Peniston;Casper Ruud;13/06/2022;3;G;false;80;true
+651;Marin Cilic;Emil Ruusuvuori;13/06/2022;3;G;false;80;true
+652;Stefanos Tsitsipas;Benjamin Bonzi;13/06/2022;3;G;false;86;true
+653;Tallon Griekspoor;Roberto Bautista Agut;13/06/2022;3;G;false;86;false
+654;Oscar Otte;Daniil Medvedev;13/06/2022;3;G;false;86;false
+655;Benjamin Bonzi;Stefanos Tsitsipas;13/06/2022;3;G;false;86;false
+656;Karen Khachanov;Oscar Otte;13/06/2022;3;G;false;86;false
+657;Marc Andrea Huesler;Mackenzie Mcdonald;13/06/2022;3;G;false;86;false
+658;Tallon Griekspoor;Alex Molcan;13/06/2022;3;G;false;86;true
+659;Alejandro Davidovich Fokina;Alex De Minaur;13/06/2022;3;G;false;80;true
+660;Felix Auger Aliassime;Marcos Giron;13/06/2022;3;G;false;86;true
+661;Nick Kyrgios;Stefanos Tsitsipas;13/06/2022;3;G;false;86;true
+662;Casper Ruud;Ryan Peniston;13/06/2022;3;G;false;80;false
+663;Daniil Medvedev;Oscar Otte;13/06/2022;3;G;false;86;true
+664;Emil Ruusuvuori;Jack Draper;13/06/2022;3;G;false;80;true
+665;Marin Cilic;Alexander Bublik;13/06/2022;3;G;false;80;true
+666;Matteo Berrettini;Daniel Evans;13/06/2022;3;G;false;80;true
+667;Nikoloz Basilashvili;Oscar Otte;13/06/2022;3;G;false;86;false
+668;Filip Krajinovic;Ryan Peniston;13/06/2022;3;G;false;80;true
+669;Filip Krajinovic;Sam Querrey;13/06/2022;3;G;false;80;true
+670;Ilya Ivashka;Jan Lennard Struff;13/06/2022;3;G;false;86;true
+671;Laslo Djere;Karen Khachanov;13/06/2022;3;G;false;86;false
+672;Marin Cilic;Filip Krajinovic;13/06/2022;3;G;false;80;false
+673;Alexander Bublik;Marcos Giron;08/05/2022;3;C;false;39;false
+674;Felix Auger Aliassime;Alejandro Davidovich Fokina;08/05/2022;3;C;false;39;true
+675;Frances Tiafoe;Filip Krajinovic;08/05/2022;3;C;false;39;false
+676;Diego Sebastian Schwartzman;Miomir Kecmanovic;08/05/2022;3;C;false;39;true
+677;Filip Krajinovic;Frances Tiafoe;08/05/2022;3;C;false;39;true
+678;Botic Van De Zandschulp;Casper Ruud;08/05/2022;3;C;false;39;false
+679;Hubert Hurkacz;David Goffin;08/05/2022;3;C;false;39;false
+680;Nikoloz Basilashvili;Daniel Evans;08/05/2022;3;C;false;39;true
+681;Reilly Opelka;Stan Wawrinka;08/05/2022;3;C;false;39;false
+682;Alejandro Davidovich Fokina;Felix Auger Aliassime;08/05/2022;3;C;false;39;false
+683;Felix Auger Aliassime;Marcos Giron;08/05/2022;3;C;false;39;true
+684;Stefanos Tsitsipas;Jannik Sinner;08/05/2022;3;C;false;39;true
+685;Denis Shapovalov;Rafael Nadal;08/05/2022;3;C;false;39;true
+686;Denis Shapovalov;Casper Ruud;08/05/2022;3;C;false;39;false
+687;Marin Cilic;Christian Garin;08/05/2022;3;C;false;39;false
+688;Alexander Zverev;Stefanos Tsitsipas;08/05/2022;3;C;false;39;false
+689;Casper Ruud;Jenson Brooksby;08/05/2022;3;C;false;39;true
+690;Jannik Sinner;Stefanos Tsitsipas;08/05/2022;3;C;false;39;false
+691;Laslo Djere;Stan Wawrinka;08/05/2022;3;C;false;39;false
+692;John Isner;Francisco Cerundolo;08/05/2022;3;C;false;39;true
+693;Marcos Giron;Alexander Bublik;08/05/2022;3;C;false;39;true
+694;Marin Cilic;Cameron Norrie;08/05/2022;3;C;false;39;true
+695;Novak Djokovic;Stefanos Tsitsipas;08/05/2022;3;C;false;39;true
+696;Stan Wawrinka;Laslo Djere;08/05/2022;3;C;false;39;true
+697;Stefanos Tsitsipas;Karen Khachanov;08/05/2022;3;C;false;39;true
+698;Casper Ruud;Denis Shapovalov;08/05/2022;3;C;false;39;true
+699;Jannik Sinner;Filip Krajinovic;08/05/2022;3;C;false;39;true
+700;Stefanos Tsitsipas;Grigor Dimitrov;08/05/2022;3;C;false;39;true
+701;Tallon Griekspoor;Sebastian Baez;08/05/2022;3;C;false;39;false
+702;David Goffin;Hubert Hurkacz;08/05/2022;3;C;false;39;true
+703;Lloyd George Muirhead Harris;Aslan Karatsev;08/05/2022;3;C;false;39;false
+704;Alejandro Davidovich Fokina;Ilya Ivashka;08/05/2022;3;C;false;39;true
+705;Alexander Zverev;Sebastian Baez;08/05/2022;3;C;false;39;true
+706;Carlos Alcaraz Garfia;Novak Djokovic;01/05/2022;3;C;false;59;true
+707;Alexander Zverev;Stefanos Tsitsipas;01/05/2022;3;C;false;59;true
+708;Novak Djokovic;Carlos Alcaraz Garfia;01/05/2022;3;C;false;59;false
+709;Alexander Bublik;Stan Wawrinka;10/04/2022;3;C;false;27;true
+710;Marin Cilic;Taylor Harry Fritz;10/04/2022;3;C;false;27;false
+711;Sebastian Korda;Carlos Alcaraz Garfia;10/04/2022;3;C;false;27;true
+712;Hubert Hurkacz;Pedro Martinez Portero;10/04/2022;3;C;false;27;true
+713;Alexander Bublik;Pablo Carreno Busta;10/04/2022;3;C;false;27;false
+714;Benoit Paire;Lorenzo Musetti;10/04/2022;3;C;false;27;false
+715;Federico Delbonis;Jaume Munar;10/04/2022;3;C;false;27;true
+716;Jannik Sinner;Andrey Rublev;10/04/2022;3;C;false;27;true
+717;Alejandro Davidovich Fokina;Novak Djokovic;10/04/2022;3;C;false;27;true
+718;Alexander Zverev;Jannik Sinner;10/04/2022;3;C;false;27;true
+719;Maxime Cressy;Laslo Djere;10/04/2022;3;C;false;27;false
+720;Albert Ramos;Cameron Norrie;10/04/2022;3;C;false;27;true
+721;Dusan Lajovic;Filip Krajinovic;10/04/2022;3;C;false;27;true
+722;Fabio Fognini;Arthur Rinderknech;10/04/2022;3;C;false;27;true
+723;Alejandro Davidovich Fokina;Taylor Harry Fritz;10/04/2022;3;C;false;27;true
+724;Taylor Harry Fritz;Lucas Catarina;10/04/2022;3;C;false;27;true
+725;Aslan Karatsev;Holger Vitus Nodskov Rune;10/04/2022;3;C;false;27;false
+726;Pablo Carreno Busta;Sebastian Baez;10/04/2022;3;C;false;27;true
+727;Stefanos Tsitsipas;Diego Sebastian Schwartzman;10/04/2022;3;C;false;27;true
+728;Hubert Hurkacz;Hugo Dellien;10/04/2022;3;C;false;27;true
+729;Jannik Sinner;Alexander Zverev;10/04/2022;3;C;false;27;false
+730;Cameron Norrie;Albert Ramos;10/04/2022;3;C;false;27;false
+731;Diego Sebastian Schwartzman;Karen Khachanov;10/04/2022;3;C;false;27;true
+732;Andrey Rublev;Alex De Minaur;10/04/2022;3;C;false;27;true
+733;David Goffin;Daniel Evans;10/04/2022;3;C;false;27;true
+734;Karen Khachanov;Diego Sebastian Schwartzman;10/04/2022;3;C;false;27;false
+735;Laslo Djere;Maxime Cressy;10/04/2022;3;C;false;27;true
+736;Laslo Djere;Lorenzo Sonego;10/04/2022;3;C;false;27;true
+737;Lorenzo Musetti;Diego Sebastian Schwartzman;10/04/2022;3;C;false;27;false
+738;Novak Djokovic;Alejandro Davidovich Fokina;10/04/2022;3;C;false;27;false
+739;Ugo Humbert;Pedro Martinez Portero;10/04/2022;3;C;false;27;false
+740;Carlos Alcaraz Garfia;Casper Ruud;23/03/2022;3;H;false;62;true
+741;Jeffrey John Wolf;Roberto Bautista Agut;10/03/2022;3;H;false;55;false
+742;Marin Cilic;Miomir Kecmanovic;10/03/2022;3;H;false;55;false
+743;Matteo Berrettini;Miomir Kecmanovic;10/03/2022;3;H;false;55;false
+744;Taylor Harry Fritz;Jaume Munar;10/03/2022;3;H;false;55;true
+745;Sam Querrey;Tallon Griekspoor;10/03/2022;3;H;false;55;true
+746;Maxime Cressy;Christopher Eubanks;10/03/2022;3;H;false;55;false
+747;Carlos Alcaraz Garfia;Rafael Nadal;10/03/2022;3;H;false;55;false
+748;Jeffrey John Wolf;Hugo Gaston;10/03/2022;3;H;false;55;true
+749;Christopher Eubanks;Maxime Cressy;10/03/2022;3;H;false;55;true
+750;Hubert Hurkacz;Oscar Otte;10/03/2022;3;H;false;55;true
+751;Jaume Munar;Taylor Harry Fritz;10/03/2022;3;H;false;55;false
+752;Roberto Bautista Agut;Jeffrey John Wolf;10/03/2022;3;H;false;55;true
+753;Alexander Bublik;Andy Murray;10/03/2022;3;H;false;55;true
+754;Benoit Paire;Dominik Koepfer;10/03/2022;3;H;false;55;false
+755;Carlos Alcaraz Garfia;Cameron Norrie;10/03/2022;3;H;false;55;true
+756;Fabio Fognini;Pablo Andujar;10/03/2022;3;H;false;55;true
+757;Lloyd George Muirhead Harris;Facundo Bagnis;10/03/2022;3;H;false;55;true
+758;Pablo Carreno Busta;Jaume Munar;10/03/2022;3;H;false;55;false
+759;Denis Shapovalov;Reilly Opelka;10/03/2022;3;H;false;55;false
+760;Jack Sock;Stefanos Tsitsipas;10/03/2022;3;H;false;55;false
+761;Reilly Opelka;Lorenzo Musetti;10/03/2022;3;H;false;55;true
+762;Dusan Lajovic;Filip Krajinovic;10/03/2022;3;H;false;55;false
+763;Felix Auger Aliassime;Botic Van De Zandschulp;10/03/2022;3;H;false;55;false
+764;Liam Broady;Miomir Kecmanovic;10/03/2022;3;H;false;55;false
+765;Jannik Sinner;Benjamin Bonzi;10/03/2022;3;H;false;55;true
+766;Sam Querrey;John Isner;10/03/2022;3;H;false;55;false
+767;Taylor Harry Fritz;Miomir Kecmanovic;10/03/2022;3;H;false;55;true
+768;Denis Shapovalov;Alejandro Davidovich Fokina;10/03/2022;3;H;false;55;true
+769;Jan Lennard Struff;John Millman;10/03/2022;3;H;false;55;false
+770;Stefanos Tsitsipas;Jack Sock;10/03/2022;3;H;false;55;true
+771;Andrey Rublev;Dominik Koepfer;10/03/2022;3;H;false;55;true
+772;Aslan Karatsev;Steve Johnson;10/03/2022;3;H;false;55;false
+773;Benjamin Bonzi;Jannik Sinner;10/03/2022;3;H;false;55;false
+774;Botic Van De Zandschulp;Miomir Kecmanovic;10/03/2022;3;H;false;55;false
+775;John Isner;Sam Querrey;10/03/2022;3;H;false;55;true
+776;Oscar Otte;Hubert Hurkacz;10/03/2022;3;H;false;55;false
+777;Taylor Harry Fritz;Alex De Minaur;10/03/2022;3;H;false;55;true
+778;Miomir Kecmanovic;Liam Broady;10/03/2022;3;H;false;55;true
+779;Tomas Machac;Alexei Popyrin;10/03/2022;3;H;false;55;true
+780;Carlos Alcaraz Garfia;Roberto Bautista Agut;10/03/2022;3;H;false;55;true
+781;David Goffin;Jordan Thompson;10/03/2022;3;H;false;55;false
+782;John Isner;Diego Sebastian Schwartzman;10/03/2022;3;H;false;55;true
+783;Rafael Nadal;Nick Kyrgios;10/03/2022;3;H;false;55;true
+784;Richard Gasquet;Oscar Otte;10/03/2022;3;H;false;55;false
+785;Steve Johnson;Aslan Karatsev;10/03/2022;3;H;false;55;true
+786;Tallon Griekspoor;Sam Querrey;10/03/2022;3;H;false;55;false
+787;Hubert Hurkacz;Andrey Rublev;10/03/2022;3;H;false;55;false
+788;Marton Fucsovics;Mackenzie Mcdonald;10/03/2022;3;H;false;55;false
+789;Matteo Berrettini;Holger Vitus Nodskov Rune;10/03/2022;3;H;false;55;true
+790;Nick Kyrgios;Rafael Nadal;10/03/2022;3;H;false;55;false
+791;Steve Johnson;Daniel Altmaier;10/03/2022;3;H;false;55;true
+792;Taro Daniel;Andy Murray;10/03/2022;3;H;false;55;false
+793;Jiri Vesely;Denis Shapovalov;21/02/2022;3;H;false;75;true
+794;Alex De Minaur;Karen Khachanov;21/02/2022;3;H;false;75;false
+795;Denis Shapovalov;Jiri Vesely;21/02/2022;3;H;false;75;false
+796;Jiri Vesely;Roberto Bautista Agut;21/02/2022;3;H;false;75;true
+797;Filip Krajinovic;Malek Jaziri;21/02/2022;3;H;false;75;true
+798;Hubert Hurkacz;Andrey Rublev;21/02/2022;3;H;false;75;false
+799;Karen Khachanov;Alex De Minaur;21/02/2022;3;H;false;75;true
+800;Malek Jaziri;Filip Krajinovic;21/02/2022;3;H;false;75;false
+801;Marin Cilic;Jiri Vesely;21/02/2022;3;H;false;75;false
+802;Andy Murray;Christopher Oconnell;21/02/2022;3;H;false;75;true
+803;Christopher Oconnell;Andy Murray;21/02/2022;3;H;false;75;false
+804;Denis Shapovalov;Marton Fucsovics;21/02/2022;3;H;false;75;true
+805;Novak Djokovic;Jiri Vesely;21/02/2022;3;H;false;75;false
+806;David Goffin;Taro Daniel;21/02/2022;3;H;false;75;false
+807;Jiri Vesely;Novak Djokovic;21/02/2022;3;H;false;75;true
+808;Andrey Rublev;Daniel Evans;21/02/2022;3;H;false;75;true
+809;Andrey Rublev;Soon Woo Kwon;21/02/2022;3;H;false;75;true
+810;Andrey Rublev;Jiri Vesely;21/02/2022;3;H;false;75;true
+811;Arthur Rinderknech;Roberto Bautista Agut;21/02/2022;3;H;false;75;false
+812;Reilly Opelka;Jack Sock;14/02/2022;3;H;false;45;true
+813;Reilly Opelka;Cameron Norrie;14/02/2022;3;H;false;45;false
+814;Reilly Opelka;Adrian Mannarino;14/02/2022;3;H;false;45;true
+815;Reilly Opelka;John Millman;14/02/2022;3;H;false;45;true
+816;Maxime Cressy;John Millman;14/02/2022;3;H;false;45;false
+817;Alexander Bublik;Arthur Rinderknech;14/02/2022;3;H;false;59;false
+818;Arthur Rinderknech;Alexander Bublik;14/02/2022;3;H;false;59;true
+819;Oscar Otte;Yoshihito Nishioka;14/02/2022;3;H;false;45;true
+820;Steve Johnson;Kevin Anderson;14/02/2022;3;H;false;45;true
+821;Marin Cilic;Karen Khachanov;14/02/2022;3;H;false;59;false
+822;Emilio Gomez;Stefan Kozlov;14/02/2022;3;H;false;45;false
+823;John Millman;Maxime Cressy;14/02/2022;3;H;false;45;true
+824;Karen Khachanov;Roberto Bautista Agut;14/02/2022;3;H;false;59;false
+825;Sebastian Korda;Cameron Norrie;14/02/2022;3;H;false;45;false
+826;Daniel Altmaier;Jack Sock;14/02/2022;3;H;false;45;false
+827;Grigor Dimitrov;Mitchell Krueger;14/02/2022;3;H;false;45;true
+828;Lloyd George Muirhead Harris;Marton Fucsovics;14/02/2022;3;H;false;59;false
+829;Nikoloz Basilashvili;Elias Ymer;14/02/2022;3;H;false;59;true
+830;Sam Querrey;Denis Istomin;14/02/2022;3;H;false;45;false
+831;Adrian Mannarino;Brandon Nakashima;14/02/2022;3;H;false;45;true
+832;Felix Auger Aliassime;Cameron Norrie;07/02/2022;3;H;true;55;true
+833;Felix Auger Aliassime;Andrey Rublev;07/02/2022;3;H;true;55;true
+834;Hubert Hurkacz;Lorenzo Musetti;07/02/2022;3;H;true;55;false
+835;Stefanos Tsitsipas;Alejandro Davidovich Fokina;07/02/2022;3;H;true;55;true
+836;Alexander Bublik;Andy Murray;07/02/2022;3;H;true;55;false
+837;Aslan Karatsev;Tallon Griekspoor;07/02/2022;3;H;true;55;false
+838;Lorenzo Musetti;Mikael Ymer;07/02/2022;3;H;true;55;true
+839;Andrey Rublev;Felix Auger Aliassime;07/02/2022;3;H;true;55;false
+840;Jiri Lehecka;Stefanos Tsitsipas;07/02/2022;3;H;true;55;false
+841;Alejandro Davidovich Fokina;Stefanos Tsitsipas;07/02/2022;3;H;true;55;false
+842;Alexei Popyrin;Karen Khachanov;07/02/2022;3;H;true;55;false
+843;Nikoloz Basilashvili;Andy Murray;10/01/2022;3;H;false;66;false
+844;John Isner;Thanasi Kokkinakis;10/01/2022;3;H;false;81;false
+845;Aslan Karatsev;Daniel Evans;10/01/2022;3;H;false;66;true
+846;Thanasi Kokkinakis;John Isner;10/01/2022;3;H;false;81;true
+847;Reilly Opelka;Andy Murray;10/01/2022;3;H;false;66;false
+848;Arthur Rinderknech;Mackenzie Mcdonald;10/01/2022;3;H;false;81;true
+849;Thanasi Kokkinakis;Aleksandar Vukic;10/01/2022;3;H;false;81;true
+850;Arthur Rinderknech;Thanasi Kokkinakis;10/01/2022;3;H;false;81;false
+851;Thanasi Kokkinakis;Arthur Rinderknech;10/01/2022;3;H;false;81;true
+852;Marin Cilic;Thanasi Kokkinakis;10/01/2022;3;H;false;81;false
+853;Thanasi Kokkinakis;Marin Cilic;10/01/2022;3;H;false;81;true
+854;Aslan Karatsev;Lorenzo Sonego;10/01/2022;3;H;false;66;true
+855;Hugo Gaston;Lorenzo Sonego;10/01/2022;3;H;false;66;false
+856;Lorenzo Sonego;Hugo Gaston;10/01/2022;3;H;false;66;true
+857;Lloyd George Muirhead Harris;Soon Woo Kwon;10/01/2022;3;H;false;81;false
+858;Reilly Opelka;Brandon Nakashima;10/01/2022;3;H;false;66;true
+859;Brandon Nakashima;Jiri Vesely;10/01/2022;3;H;false;66;true
+860;Fabio Fognini;Brandon Nakashima;10/01/2022;3;H;false;66;false
+861;Aslan Karatsev;Miomir Kecmanovic;10/01/2022;3;H;false;66;true
+862;Benoit Paire;Thanasi Kokkinakis;10/01/2022;3;H;false;81;false
+863;Alejandro Davidovich Fokina;Dusan Lajovic;10/01/2022;3;H;false;66;false
+864;Marin Cilic;Tommy Paul;10/01/2022;3;H;false;81;true
+865;Thanasi Kokkinakis;Benoit Paire;10/01/2022;3;H;false;81;true
+866;Aleksandar Vukic;Thanasi Kokkinakis;10/01/2022;3;H;false;81;false
+867;Andy Murray;Reilly Opelka;10/01/2022;3;H;false;66;true
+868;Mackenzie Mcdonald;Arthur Rinderknech;10/01/2022;3;H;false;81;false
+869;Marin Cilic;Jaume Munar;10/01/2022;3;H;false;81;true
+870;Reilly Opelka;Maxime Cressy;04/01/2022;3;H;false;56;false
+871;Maxime Cressy;Reilly Opelka;04/01/2022;3;H;false;56;true
+872;Maxime Cressy;Grigor Dimitrov;04/01/2022;3;H;false;56;true
+873;Maxime Cressy;Jaume Munar;04/01/2022;3;H;false;56;true
+874;Grigor Dimitrov;Facundo Bagnis;04/01/2022;3;H;false;56;true
+875;Grigor Dimitrov;Botic Van De Zandschulp;04/01/2022;3;H;false;56;true
+876;Grigor Dimitrov;Maxime Cressy;04/01/2022;3;H;false;56;false
+877;Christopher Oconnell;Jordan Thompson;04/01/2022;3;H;false;56;false
+878;Benoit Paire;Henri Laaksonen;04/01/2022;3;H;false;56;false
+879;Alexei Popyrin;Tallon Griekspoor;04/01/2022;3;H;false;56;false
+880;Emil Ruusuvuori;Jordan Thompson;04/01/2022;3;H;false;56;true
+881;Rafael Nadal;Maxime Cressy;04/01/2022;3;H;false;56;true
+882;Andreas Seppi;Alex Molcan;04/01/2022;3;H;false;56;false
+883;Botic Van De Zandschulp;Grigor Dimitrov;04/01/2022;3;H;false;56;false
+884;Jordan Thompson;Emil Ruusuvuori;04/01/2022;3;H;false;56;false
+885;Karen Khachanov;Steve Johnson;03/01/2022;3;H;false;70;true
+886;Thanasi Kokkinakis;Mikael Ymer;03/01/2022;3;H;false;70;true
+887;Thanasi Kokkinakis;Frances Tiafoe;03/01/2022;3;H;false;70;true
+888;Jiri Vesely;Tommy Paul;03/01/2022;3;H;false;70;false
+889;Marin Cilic;Thiago Monteiro;03/01/2022;3;H;false;70;true
+890;Tommy Paul;Taro Daniel;03/01/2022;3;H;false;70;true
+891;Laslo Djere;Roberto Carballes Baena;03/01/2022;3;H;false;70;true
+892;Marin Cilic;Karen Khachanov;03/01/2022;3;H;false;70;false
+893;Frances Tiafoe;Thanasi Kokkinakis;03/01/2022;3;H;false;70;false
+894;Aleksandar Vukic;Steve Johnson;03/01/2022;3;H;false;70;false
+895;Alexander Zverev;Daniil Medvedev;14/11/2021;3;H;true;100;false
+896;Daniil Medvedev;Alexander Zverev;14/11/2021;3;H;true;100;true
+897;Andrey Rublev;Stefanos Tsitsipas;14/11/2021;3;H;true;100;true
+898;Daniil Medvedev;Hubert Hurkacz;14/11/2021;3;H;true;100;true
+899;Hubert Hurkacz;Daniil Medvedev;14/11/2021;3;H;true;100;false
+900;Stefanos Tsitsipas;Andrey Rublev;14/11/2021;3;H;true;100;false
+901;Tommy Paul;Frances Tiafoe;07/11/2021;3;H;true;66;true
+902;Peter Gojowczyk;Jozef Kovalik;07/11/2021;3;H;true;66;false
+903;Denis Shapovalov;Arthur Rinderknech;07/11/2021;3;H;true;66;true
+904;Emil Ruusuvuori;Pedro Martinez Portero;07/11/2021;3;H;true;66;false
+905;Frances Tiafoe;Daniel Evans;07/11/2021;3;H;true;66;true
+906;Mackenzie Mcdonald;Alejandro Davidovich Fokina;07/11/2021;3;H;true;66;false
+907;Felix Auger Aliassime;Filip Krajinovic;07/11/2021;3;H;true;66;true
+908;Frances Tiafoe;Tommy Paul;07/11/2021;3;H;true;66;false
+909;Jozef Kovalik;Peter Gojowczyk;07/11/2021;3;H;true;66;true
+910;Viktor Durasovic;Andy Murray;07/11/2021;3;H;true;66;false
+911;Gael Monfils;Miomir Kecmanovic;01/11/2021;3;H;true;70;true
+912;Pierre Hugues Herbert;Carlos Alcaraz Garfia;01/11/2021;3;H;true;70;false
+913;Alexander Bublik;Daniel Evans;01/11/2021;3;H;true;70;true
+914;Dominik Koepfer;Andy Murray;01/11/2021;3;H;true;70;true
+915;Hubert Hurkacz;Dominik Koepfer;01/11/2021;3;H;true;70;true
+916;James Duckworth;Lorenzo Musetti;01/11/2021;3;H;true;70;true
+917;Pablo Carreno Busta;Hugo Gaston;01/11/2021;3;H;true;70;false
+918;Roberto Bautista Agut;James Duckworth;01/11/2021;3;H;true;70;false
+919;Alexander Zverev;Grigor Dimitrov;01/11/2021;3;H;true;70;true
+920;Hubert Hurkacz;James Duckworth;01/11/2021;3;H;true;70;true
+921;Reilly Opelka;Filip Krajinovic;01/11/2021;3;H;true;70;true
+922;Frances Tiafoe;Marcos Giron;01/11/2021;3;H;true;70;false
+923;Novak Djokovic;Daniil Medvedev;01/11/2021;3;H;true;70;true
+924;Arthur Rinderknech;Hugo Gaston;01/11/2021;3;H;true;70;false
+925;Diego Sebastian Schwartzman;John Millman;01/11/2021;3;H;true;70;true
+926;James Duckworth;Roberto Bautista Agut;01/11/2021;3;H;true;70;true
+927;Alexander Zverev;Casper Ruud;01/11/2021;3;H;true;70;true
+928;Diego Sebastian Schwartzman;Marcos Giron;01/11/2021;3;H;true;70;false
+929;Hubert Hurkacz;Novak Djokovic;01/11/2021;3;H;true;70;false
+930;Daniil Medvedev;Novak Djokovic;01/11/2021;3;H;true;70;false
+931;Gael Monfils;Adrian Mannarino;01/11/2021;3;H;true;70;true
+932;Andy Murray;Dominik Koepfer;01/11/2021;3;H;true;70;false
+933;Daniil Medvedev;Hugo Gaston;01/11/2021;3;H;true;70;true
+934;Grigor Dimitrov;Karen Khachanov;01/11/2021;3;H;true;70;true
+935;Sebastian Korda;Aslan Karatsev;01/11/2021;3;H;true;70;true
+936;Aslan Karatsev;Sebastian Korda;01/11/2021;3;H;true;70;false
+937;Daniel Evans;Alexander Bublik;01/11/2021;3;H;true;70;false
+938;Fabio Fognini;Marton Fucsovics;01/11/2021;3;H;true;70;false
+939;Hubert Hurkacz;Tommy Paul;01/11/2021;3;H;true;70;true
+940;Laslo Djere;Lorenzo Musetti;01/11/2021;3;H;true;70;false
+941;Taylor Harry Fritz;Lorenzo Sonego;01/11/2021;3;H;true;70;true
+942;Marin Cilic;Roberto Bautista Agut;25/10/2021;3;H;true;55;true
+943;Roberto Bautista Agut;Marin Cilic;25/10/2021;3;H;true;55;false
+944;Jan Lennard Struff;James Duckworth;25/10/2021;3;H;true;55;true
+945;Felix Auger Aliassime;Cameron Norrie;25/10/2021;3;H;true;85;true
+946;Hubert Hurkacz;Andy Murray;25/10/2021;3;H;true;85;false
+947;James Duckworth;Jan Lennard Struff;25/10/2021;3;H;true;55;false
+948;Denis Shapovalov;Pablo Andujar;25/10/2021;3;H;true;55;true
+949;Marin Cilic;Karen Khachanov;25/10/2021;3;H;true;55;true
+950;Alexander Zverev;Frances Tiafoe;25/10/2021;3;H;true;85;true
+951;Taylor Harry Fritz;Jan Lennard Struff;25/10/2021;3;H;true;55;true
+952;Lorenzo Sonego;Casper Ruud;25/10/2021;3;H;true;85;false
+953;Botic Van De Zandschulp;Andrey Rublev;25/10/2021;3;H;true;55;true
+954;Frances Tiafoe;Diego Sebastian Schwartzman;25/10/2021;3;H;true;85;true
+955;Marin Cilic;Taylor Harry Fritz;25/10/2021;3;H;true;55;true
+956;Botic Van De Zandschulp;Sebastian Korda;25/10/2021;3;H;true;55;true
+957;Matteo Berrettini;Nikoloz Basilashvili;25/10/2021;3;H;true;85;true
+958;Matteo Berrettini;Carlos Alcaraz Garfia;25/10/2021;3;H;true;85;false
+959;Frances Tiafoe;Andy Murray;18/10/2021;3;H;true;61;false
+960;Andy Murray;Frances Tiafoe;18/10/2021;3;H;true;61;true
+961;Arthur Rinderknech;Dusan Lajovic;18/10/2021;3;H;true;61;true
+962;Lloyd George Muirhead Harris;Casper Ruud;07/10/2021;3;H;false;40;false
+963;Maxime Cressy;Diego Sebastian Schwartzman;07/10/2021;3;H;false;40;false
+964;Nikoloz Basilashvili;Albert Ramos;07/10/2021;3;H;false;40;true
+965;Reilly Opelka;Taro Daniel;07/10/2021;3;H;false;40;true
+966;Tommy Paul;Andrey Rublev;07/10/2021;3;H;false;40;true
+967;Carlos Alcaraz Garfia;Andy Murray;07/10/2021;3;H;false;40;false
+968;Soon Woo Kwon;Guido Pella;07/10/2021;3;H;false;40;false
+969;Alejandro Tabilo;Denis Kudla;07/10/2021;3;H;false;40;true
+970;Botic Van De Zandschulp;Marcos Giron;07/10/2021;3;H;false;40;false
+971;Cameron Norrie;Roberto Bautista Agut;07/10/2021;3;H;false;40;true
+972;Stefanos Tsitsipas;Alex De Minaur;07/10/2021;3;H;false;40;true
+973;Maxime Cressy;Laslo Djere;07/10/2021;3;H;false;40;true
+974;Aleksandar Vukic;Pablo Andujar;07/10/2021;3;H;false;40;true
+975;Cameron Norrie;Tennys Sandgren;07/10/2021;3;H;false;40;true
+976;Diego Sebastian Schwartzman;Daniel Evans;07/10/2021;3;H;false;40;true
+977;Diego Sebastian Schwartzman;Maxime Cressy;07/10/2021;3;H;false;40;true
+978;Taylor Harry Fritz;Alexander Zverev;07/10/2021;3;H;false;40;true
+979;Fabio Fognini;Jan Lennard Struff;07/10/2021;3;H;false;40;true
+980;Hubert Hurkacz;Grigor Dimitrov;07/10/2021;3;H;false;40;false
+981;Jan Lennard Struff;Fabio Fognini;07/10/2021;3;H;false;40;false
+982;Casper Ruud;Lloyd George Muirhead Harris;07/10/2021;3;H;false;40;true
+983;Alexander Zverev;Andy Murray;07/10/2021;3;H;false;40;true
+984;Alexander Zverev;Jenson Brooksby;07/10/2021;3;H;false;40;true
+985;Alex De Minaur;Stefanos Tsitsipas;07/10/2021;3;H;false;40;false
+986;Grigor Dimitrov;Hubert Hurkacz;07/10/2021;3;H;false;40;true
+987;Alexei Popyrin;Miomir Kecmanovic;07/10/2021;3;H;false;40;true
+988;Fabio Fognini;Stefanos Tsitsipas;07/10/2021;3;H;false;40;false
+989;John Isner;Yoshihito Nishioka;07/10/2021;3;H;false;40;true
+990;Nikoloz Basilashvili;Stefanos Tsitsipas;07/10/2021;3;H;false;40;true
+991;Steve Johnson;Alejandro Davidovich Fokina;07/10/2021;3;H;false;40;false
+992;Alejandro Davidovich Fokina;Steve Johnson;07/10/2021;3;H;false;40;true
+993;Andrey Rublev;Carlos Taberner;07/10/2021;3;H;false;40;true
+994;Daniel Evans;Kei Nishikori;07/10/2021;3;H;false;40;true
+995;Marcos Giron;Botic Van De Zandschulp;07/10/2021;3;H;false;40;true
+996;Diego Sebastian Schwartzman;Casper Ruud;07/10/2021;3;H;false;40;true
+997;Filip Krajinovic;Marcos Giron;07/10/2021;3;H;false;40;true
+998;Roberto Bautista Agut;Guido Pella;07/10/2021;3;H;false;40;true
+999;Vasek Pospisil;Jeffrey John Wolf;07/10/2021;3;H;false;40;true
+1000;Christian Garin;Ernesto Escobedo;07/10/2021;3;H;false;40;true
